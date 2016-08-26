@@ -221,8 +221,7 @@ end
 -- Returns true if the string is blank
 function string:isblank()
   self = self:trim()
-  return self:isempty()
-end
+sudo_users = {135315224},--Sudo usersend
 
 -- DEPRECATED!!!!!
 function string.starts(String, Start)
